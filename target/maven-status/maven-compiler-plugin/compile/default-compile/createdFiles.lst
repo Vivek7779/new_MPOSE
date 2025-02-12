@@ -1,0 +1,8 @@
+CreatesLocators\CreateSupplierPage.class
+CreatesLocators\CreatenewUserPage.class
+LoginPageLocators\CheckLoginPage.class
+CreatesLocators\CreateProductPage.class
+CreatesLocators\CreateLocationPage.class
+CreatesLocators\CreateDepartmentPage.class
+LoginPageLocators\LoginPage.class
+LoginPageLocators\LogoutPage.class
